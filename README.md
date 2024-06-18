@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil Wagle</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilsysbit" alt="anilsysbit" /></a> </p>
-
 - 🔭 I’m currently working on **Multi Vendor Ecommerce Website**
 
 - 🌱 I’m currently learning **Laravel , Next JS**
